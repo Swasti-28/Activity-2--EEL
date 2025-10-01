@@ -35,7 +35,7 @@ void main() {
         else if (average>= 60) {
             printf("Result: The candidate has passed the event with bronze medal!\n ");}
             
-        else if (average>= 40) {
+        else (average>= 40) {
             printf(" The candidate has barely passed the event with participation certificate!\n");} 
             
             
